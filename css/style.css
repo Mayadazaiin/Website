@@ -1,0 +1,427 @@
+
+
+.navbar-brand{
+    color:rgb(255, 255, 255);
+    font-size: 30;
+    position: relative;
+    left:150;
+    bottom: 150;
+}
+
+.social-icon {
+    position: absolute;
+   text-align: center;
+left:700;
+bottom: 200;
+}
+
+.background img{
+    background-position: 50% 100% 50% 100%;
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
+    float: both;
+    font-size:12px;
+    margin: top;
+    position: absolute;
+
+}
+.container{
+background-color: rgb(234, 234, 234);
+position: relative;
+
+}
+.Home{
+    width: 100%;
+    height: 100vh;
+}
+
+.navbar-nav{
+    font-size: 17;
+    color: azure;
+    position: relative;
+    right:280;
+    bottom: 150;
+}
+.navbar-nav .nav-link.active{
+    color:white;
+}
+.nav-link{
+    color:white;
+}
+
+
+div.Text h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    top:250;
+    font-size: 70;
+}
+
+div.Text p{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top:250;
+    font-size: 40;
+
+}
+
+
+
+
+
+
+
+
+
+.container-bg-black{
+    width: 100%;
+    height: 100%;
+}
+
+.section1{
+    
+    height: 100%;
+}
+.section1.col-6 img{
+    size: 50%;
+}
+
+
+.btn{
+    color: rgb(0, 0, 0);
+    
+}
+.section2{
+    width: 100%;
+    height: 150%;
+}
+div.row h3{
+    text-align: center;
+    font-size: 50;
+}
+.xmlns{
+    font-size: 50;
+}
+div.col-4 i{
+    position: relative;
+   left:80;
+}
+
+div.section2 h2{
+    font-size: 20;
+    text-align: center;
+    position: relative;
+    right:15;
+    top:10;
+}
+
+
+div.section2 p{
+    font-size: 20;
+    text-align: center;
+}
+
+
+
+div.section3 h2{
+    text-align: center;
+    font-size: 50;
+}
+.div.zoom img{
+    transition: transform .2s;
+    
+}
+ .zoom:hover{
+    transform: scale(0.9);
+    
+ }
+
+.section4{
+    width: 100%;
+    height: 70%;
+   
+}
+
+ div.section4 h2{
+    text-align: center;
+    font-size: 50;
+ }
+
+ div.section4 p{
+    text-align: center;
+    
+ }
+ div.section4 h4{
+    text-align: center;
+    font-size: 18;
+ }
+ div.section4 h6{
+    text-align: center;
+    font-size: 18;
+
+ }
+
+
+.carousel-indicators button{
+    position: relative;
+    top: 70;
+   
+      
+}
+
+
+.Icon{
+    position: relative;
+    padding-left: 40;
+}
+
+
+
+a, a:hover, a:focus {
+    color: inherit;
+}
+a {
+    background-color: transparent;
+    text-decoration: none;
+}
+.section6{
+position: relative;
+margin-top: 20;
+}
+ div.section6 h2{
+    text-align: center;
+    font-size: 50;
+ }
+
+
+
+.section7{
+    
+    width: 100%;
+    height: 100%;
+}
+
+div.section7 h1{
+    text-align: center;
+    position: relative;
+    padding-top: 50;
+    
+}
+
+div.section7 h3{
+    font-size: 20;
+    position: relative;
+    right: 10;
+}
+div.section7 p{
+    font-size: 15;
+    text-align: center;
+}
+
+
+.form{
+    width: 100%;
+    height: 80%;
+}
+
+
+.finish{
+    background-color: black;
+    width: 100%;
+    height: 10%;
+}
+div.finish h5{
+    position: relative;
+    top: 28;
+    text-align: center;
+    font-size: 16;
+    color: rgb(139, 137, 137);
+}
+
+/* *{
+    padding: 0;
+    margin: 0;
+    
+}
+.navbar-brand{
+    font-size: 25;
+    position: relative ;
+    left: 20;
+    color: aliceblue;
+}
+.collapse{
+    color: aliceblue;
+}
+.nav-item{
+    color: aliceblue;
+}
+.nav-link{
+    position: relative;
+    left: 650;
+    font-size:18 ;
+    color: aliceblue;
+}
+.navbar{
+    background-color: rgb(0, 0, 0,0.9);
+    color: aliceblue;
+}
+.part1{
+   
+    width: 100%;
+    height: 100vh;
+}
+div.Text h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    top:250;
+    font-size: 70;
+}
+
+.background img{
+    background-position: 50% 100% 50% 100%;
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
+    float: both;
+    font-size:12px;
+    margin: top;
+    position: absolute;
+}
+div.Text p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    top:250;
+    font-size: 50;
+}
+.part2{
+    background-color: brown;
+    width: 100%;
+    height: 200%;
+}
+.card{
+    background-color: darkgrey;
+    position: relative;
+    top:150;
+    width: 85%;
+    height: 45%;
+    left: 120;
+
+}
+.card-body{
+    float: left;
+    position: relative;
+    width: 50%;
+    height: 100%;
+    background-color: darkkhaki;
+}
+.clear{
+    clear: both;
+}
+div.cardbody2 p{
+    position: relative;
+    left: 650;
+    bottom: 400;
+
+}
+div.cardbody2 h3{
+    position: relative;
+    left: 650;
+    bottom: 420;
+}
+
+
+
+div.card-body img{
+    width: 35%;
+    position: relative;
+    left: 20;
+    top: 20;
+    border-radius: 10px;
+}
+
+div.Info1 h4{
+    font-size: 20;
+    position: absolute;
+    left:250;
+    top: 40;
+}
+div.Info1 p{
+    font-size: 20;
+    position: absolute;
+    left:320;
+    top: 38;
+}
+div.Info2 h4{
+    font-size: 20;
+    position: absolute;
+    left:250;
+    top: 85;
+}
+div.Info2 p{
+    font-size: 20;
+    position: absolute;
+    left:320;
+    top: 83;
+}
+div.Info3 h4{
+    font-size: 20;
+    position: absolute;
+    left:250;
+    top: 130;
+}
+div.Info3 p{
+    font-size: 20;
+    position: absolute;
+    left:320;
+    top: 128;
+}
+div.Info4 h4{
+    font-size: 20;
+    position: absolute;
+    left:250;
+    top: 175;
+}
+div.Info4 p{
+    font-size: 20;
+    position: absolute;
+    left:325;
+    top: 173;
+}
+div.Skills h4{
+    font-size: 25;
+    position: relative;
+    top:65;
+    left:20;
+}
+.progress{
+    position: relative;
+    bottom:50;
+    left:20;
+}
+div.name1  p{
+    position: relative;
+    top:80;
+    left:20;
+}
+
+
+div.name2  p{
+    position: relative;
+    top:100;
+    left:20;
+}
+div.name3 p{
+    position: relative;
+    top:120;
+    left:20;
+}
+div.name4 p{
+    position: relative;
+    top:140;
+    left:20;
+} */
